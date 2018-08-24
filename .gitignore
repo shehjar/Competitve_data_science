@@ -8,3 +8,4 @@ __pycache__
 *.hdf5
 weights*
 readonly/*
+Kaggle_Task/Data*
