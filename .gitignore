@@ -7,5 +7,5 @@ __pycache__
 
 *.hdf5
 weights*
-readonly/*
-Kaggle_Task/Data*
+readonly/final_project_data/*.csv
+readonly/final_project_data/*.gz
